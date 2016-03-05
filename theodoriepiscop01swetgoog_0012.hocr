@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theodoriepiscop01swetgoog_0012.png"; bbox 0 0 3250 5025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 488 2243 2896 2550">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 488 2243 2896 2550">
+     <span class='ocr_line' id='line_1_1' title="bbox 598 2243 2896 2333; baseline 0 -22"><span class='ocrx_word' id='word_1_1' title='bbox 598 2245 841 2311; x_wconf 71' lang='grc' dir='ltr'>Ἔοικεκ</span> <span class='ocrx_word' id='word_1_2' title='bbox 875 2248 946 2312; x_wconf 67' lang='lat' dir='ltr'>Ae!</span> <span class='ocrx_word' id='word_1_3' title='bbox 977 2246 1501 2333; x_wconf 70' lang='grc' dir='ltr'>φιλοποκώτεροκ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1544 2243 1681 2333; x_wconf 75' lang='grc' dir='ltr'>περὶ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1714 2248 1833 2311; x_wconf 63' lang='lat' dir='ltr'>nin</span> <span class='ocrx_word' id='word_1_6' title='bbox 1876 2244 2041 2333; x_wconf 70' lang='grc' dir='ltr'>ἷερᾶκ</span> <span class='ocrx_word' id='word_1_7' title='bbox 2086 2247 2273 2312; x_wconf 48' lang='lat' dir='ltr'>&amp;nebu</span> <span class='ocrx_word' id='word_1_8' title='bbox 2319 2248 2407 2311; x_wconf 65' lang='grc' dir='ltr'>καὶ</span> <span class='ocrx_word' id='word_1_9' title='bbox 2442 2244 2608 2313; x_wconf 65' lang='grc' dir='ltr'>θείακ</span> <span class='ocrx_word' id='word_1_10' title='bbox 2634 2248 2896 2333; x_wconf 63' lang='grc' dir='ltr'>,Γραφιὶη</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 488 2365 2341 2455; baseline 0.001 -23"><span class='ocrx_word' id='word_1_11' title='bbox 488 2376 846 2445; x_wconf 60' lang='lat' dir='ltr'>Amnestum,</span> <span class='ocrx_word' id='word_1_12' title='bbox 878 2367 926 2434; x_wconf 81' lang='grc' dir='ltr'>εἰ</span> <span class='ocrx_word' id='word_1_13' title='bbox 959 2366 1048 2434; x_wconf 64' lang='grc' dir='ltr'>καὶ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1079 2370 1152 2435; x_wconf 71' lang='grc' dir='ltr'>ἐκ</span> <span class='ocrx_word' id='word_1_15' title='bbox 1186 2366 1446 2434; x_wconf 69' lang='grc' dir='ltr'>πολλοῖς</span> <span class='ocrx_word' id='word_1_16' title='bbox 1476 2372 1872 2455; x_wconf 56' lang='grc' dir='ltr'>παραοῆρεται</span> <span class='ocrx_word' id='word_1_17' title='bbox 1904 2376 2018 2433; x_wconf 70' lang='grc' dir='ltr'>τῆς</span> <span class='ocrx_word' id='word_1_18' title='bbox 2040 2365 2341 2433; x_wconf 66' lang='grc' dir='ltr'>ἀληθείας.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1955 2496 2763 2550; baseline -0.001 -2"><span class='ocrx_word' id='word_1_19' title='bbox 1955 2498 2132 2549; x_wconf 71' lang='lat' dir='ltr'><strong>Puor.</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 2166 2497 2383 2549; x_wconf 75' lang='lat' dir='ltr'><em>biblioth.</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 2416 2498 2528 2549; x_wconf 81' lang='lat' dir='ltr'><strong>eod.</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 2563 2496 2763 2550; x_wconf 81' lang='lat' dir='ltr'><strong>clxxvii.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
